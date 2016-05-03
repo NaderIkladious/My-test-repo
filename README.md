@@ -1,7 +1,8 @@
-# &lt;img src=x onerror=alert(1)
+`# &lt;img src=x onerror=alert(1)
 
 "&lt;script>alert('test')<%2Fscript>"
-`<a></a>`
+<a></a>
 &lt;img/src=x/on-error="alert(1)</script>
 
 "><svg/onload=prompt(0)>
+`
